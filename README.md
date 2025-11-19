@@ -74,9 +74,6 @@ Weekly Uber Rides = β0 + β1*(Price) + β2*(Population) + β3*(Income) + β4*(P
 
 The model predicts weekly rides based on the inputs from the UI.
 
-📄 License
-This project is open-source under the MIT License.
-
 🙌 Author
 👤 Ajay Samuel
 MBA – Business Analytics
